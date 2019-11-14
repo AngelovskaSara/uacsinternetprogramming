@@ -1,0 +1,59 @@
+﻿  body {
+    background-image: url(blue_background_simple_267950.jpg);
+    height: 90vh;
+    background-repeat : no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    
+}
+  .login-page {
+      width: 360px;
+      margin: auto;
+      padding: 5% 0 0;
+  }
+.form {
+    background: white;
+    background-color:  rgba(0,0,0,0.5);
+    position: relative;
+    z-index: 1;
+    max-width: 380px;
+    margin: 0 auto 0px;
+    padding: 20px;
+    text-align: center;
+}
+ .form input {
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     outline: 1;
+     background: #c7c0c0;
+     width: 100%;
+     border: 0;
+     margin: 0 0 15px;
+     padding: 15px;
+     box-sizing: border-box;
+     font-size: 14px;
+ }
+
+ .form button {
+
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-transform: uppercase;
+     outline: 0;
+     background: #0c4e98;
+     width: 100%;
+     border:0;
+     padding: 15px;
+     font-size:14px;
+     cursor:pointer;
+ }
+ .Logo{
+
+     bottom:0px;
+     right:0px;
+     position:relative;
+     padding: 20px 20px 0 0;
+
+
+
+ }
+
